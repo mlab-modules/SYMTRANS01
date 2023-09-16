@@ -6,6 +6,7 @@ homepage: false
 images:
 - doc/pdf/SYMTRANS01A_top_small.jpg
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
