@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/SYMTRANS01.kicad_sch</source>
+    <date>Sun Sep 17 09:10:10 2023</date>
+    <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>SYMTRANS01A</title>
+        <company>Mlab www.mlab.cz</company>
+        <rev>REV</rev>
+        <date>%F</date>
+        <source>SYMTRANS01.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="Low frequency analog\nsignal balun"/>
+        <comment number="3" value="jacho@mlab.cz"/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="C_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e232</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="C_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7ea26</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="C_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7d977</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="C_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7ea08</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HEADER_2x04_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e2fa</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HEADER_2x04_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7ea44</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>HEADER_1x02</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HEADER_1x02" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e23e</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>HEADER_1x02</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HEADER_1x02" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7ea32</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>HEADER_1x02</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HEADER_1x02" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7dfa6</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>HEADER_1x02</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HEADER_1x02" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7ea14</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HEADER_2x04_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7d81b</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HEADER_2x04_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e9f4</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7549</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7628</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7646</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7665</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>300</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e244</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>300</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7ea38</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>300</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e01a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>300</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7ea1a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7edcb</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7edd1</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e033</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>0</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e0a1</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>-</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7edc5</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>-</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7dd01</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>0</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7edd7</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>0</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7eddd</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>0</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e0f0</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>0</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="R_Small" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057d7e0f6</tstamps>
+    </comp>
+    <comp ref="TR1">
+      <value>H1102NL</value>
+      <footprint>Mlab_TR:H110X_H1121_HX1188</footprint>
+      <libsource lib="SYMTRANS01-rescue" part="TRANSF5-RESCUE-SYMTRANS01A" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SYMTRANS01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000057da94b0 00000000-0000-0000-0000-000057da8991</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="SYMTRANS01-rescue" part="C_Small">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SYMTRANS01-rescue" part="HEADER_1x02">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_1x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SYMTRANS01-rescue" part="HEADER_2x04_PARALLEL">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x04_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SYMTRANS01-rescue" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SYMTRANS01-rescue" part="R_Small">
+      <footprints>
+        <fp>Resistor_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SYMTRANS01-rescue" part="TRANSF5-RESCUE-SYMTRANS01A">
+      <fields>
+        <field name="Reference">TR</field>
+        <field name="Value">TRANSF5-RESCUE-SYMTRANS01A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="15" name="" type="passive"/>
+        <pin num="16" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="SYMTRANS01-rescue">
+      <uri>/github/workspace/hw/sch_pcb/SYMTRANS01-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/A2+">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/A2-">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/A3+">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="TR1" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/A3-">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="TR1" pin="3" pintype="passive"/>
+    </net>
+    <net code="5" name="/AIN+">
+      <node ref="J1" pin="5" pintype="input"/>
+      <node ref="J1" pin="6" pintype="input"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/AIN-">
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/AOUT+">
+      <node ref="J7" pin="5" pintype="input"/>
+      <node ref="J7" pin="6" pintype="input"/>
+      <node ref="TR1" pin="16" pintype="passive"/>
+    </net>
+    <net code="8" name="/AOUT-">
+      <node ref="J7" pin="3" pintype="input"/>
+      <node ref="J7" pin="4" pintype="input"/>
+      <node ref="TR1" pin="14" pintype="passive"/>
+    </net>
+    <net code="9" name="/B2+">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/B2-">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/B3+">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="TR1" pin="6" pintype="passive"/>
+    </net>
+    <net code="12" name="/B3-">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="TR1" pin="8" pintype="passive"/>
+    </net>
+    <net code="13" name="/BIN+">
+      <node ref="J2" pin="5" pintype="input"/>
+      <node ref="J2" pin="6" pintype="input"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="/BIN-">
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J2" pin="4" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="/BOUT+">
+      <node ref="J8" pin="5" pintype="input"/>
+      <node ref="J8" pin="6" pintype="input"/>
+      <node ref="TR1" pin="11" pintype="passive"/>
+    </net>
+    <net code="16" name="/BOUT-">
+      <node ref="J8" pin="3" pintype="input"/>
+      <node ref="J8" pin="4" pintype="input"/>
+      <node ref="TR1" pin="9" pintype="passive"/>
+    </net>
+    <net code="17" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="J1" pin="7" pintype="input"/>
+      <node ref="J1" pin="8" pintype="input"/>
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="J2" pin="7" pintype="input"/>
+      <node ref="J2" pin="8" pintype="input"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+    </net>
+    <net code="18" name="GNDA">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J7" pin="1" pintype="input"/>
+      <node ref="J7" pin="2" pintype="input"/>
+      <node ref="J7" pin="7" pintype="input"/>
+      <node ref="J7" pin="8" pintype="input"/>
+      <node ref="J8" pin="1" pintype="input"/>
+      <node ref="J8" pin="2" pintype="input"/>
+      <node ref="J8" pin="7" pintype="input"/>
+      <node ref="J8" pin="8" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pintype="input"/>
+      <node ref="TR1" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pintype="input"/>
+      <node ref="TR1" pin="7" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2" pintype="input"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pintype="input"/>
+      <node ref="TR1" pin="15" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J5-Pad2)">
+      <node ref="J5" pin="2" pintype="input"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1" pintype="input"/>
+      <node ref="TR1" pin="10" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(J6-Pad2)">
+      <node ref="J6" pin="2" pintype="input"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
