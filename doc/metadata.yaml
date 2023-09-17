@@ -3,6 +3,7 @@ github_branch: SYMTRANS01A
 github_repo: SYMTRANS01
 github_url: https://github.com/mlab-modules/SYMTRANS01
 homepage: false
+image_title: doc/gen/img/SYMTRANS01-top.png
 images:
 - doc/pdf/SYMTRANS01A_top_small.jpg
 - doc/gen/img/SYMTRANS01-bottom.png
