@@ -5,7 +5,16 @@ github_url: https://github.com/mlab-modules/SYMTRANS01
 homepage: false
 images:
 - doc/pdf/SYMTRANS01A_top_small.jpg
+- doc/gen/img/SYMTRANS01-bottom.png
+- doc/gen/img/SYMTRANS01-top.png
+- doc/gen/SYMTRANS01-schematic.svg
+- doc/gen/img/SYMTRANS01-bottom.svg
+- doc/gen/img/SYMTRANS01-top.svg
+- hw/cam_profi/docs/SYMTRANS01A-assembly_page_01.svg
+- hw/cam_profi/docs/SYMTRANS01A-assembly_page_02.svg
 mark: 50
+mod_ibom: hw/cam_profi/ibom/SYMTRANS01-ibom.html
+mod_scheme: doc/gen/SYMTRANS01-schematic.pdf
 status: 2
 tags:
 - mlab
