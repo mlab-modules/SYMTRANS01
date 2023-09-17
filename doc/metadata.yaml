@@ -1,4 +1,4 @@
-description: null
+description: Symmery transformer module e.g. balun for low frequency (audio) signals.
 github_branch: SYMTRANS01A
 github_repo: SYMTRANS01
 github_url: https://github.com/mlab-modules/SYMTRANS01
@@ -11,3 +11,4 @@ tags:
 - mlab
 - mlab-module
 title: SYMTRANS01
+updated: '2023-09-17T09:07:28.731980+00:00'
